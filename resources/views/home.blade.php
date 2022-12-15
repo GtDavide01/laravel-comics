@@ -1,5 +1,13 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Ciao, sono una pagina home</h1>
+    <div class="jumbotron">
+
+    </div>
+    <div class="title">
+        <div class="text text-center">
+            <h1>SONO LA PAGINA HOME</h1>
+        </div>
+
+    </div>
 @endsection
