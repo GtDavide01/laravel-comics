@@ -1,0 +1,22 @@
+.containercard{
+    background-color: #1c1c1c;
+    .image{
+        height: 200px;
+        overflow: hidden;
+    }
+    img{
+        width: 100%;
+    }
+    h3{
+        margin-top: 3px;
+        color: white;
+        font-size: 15px;
+    }
+    p{
+        color: white;
+        font-size: 13px;
+    }
+    span{
+        color: red;
+    }
+}
