@@ -1,0 +1,38 @@
+footer{
+    height: 430px;
+    background-image: url(../img/footer-bg.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+.footer-info{
+    display: flex;
+    width: 50%;
+    ul{
+        list-style: none;
+        padding: 2rem;
+        h2{
+            margin-top: 10px;
+            color: white;
+        }
+        li{
+            color: grey;
+            font-size: .8rem;
+            padding: .2rem 0 ; 
+        }
+    }
+}
+.footer-logo{
+    height: 430px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    img{
+        width: 80%;
+        background-position: top;
+    }
+}
+.allfooter{
+    display: flex;
+}
+}
